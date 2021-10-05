@@ -1,3 +1,5 @@
+# Python program to make a GUI Marksheet using Tkinter
+
 NumList=[]
 evenSum=0
 
